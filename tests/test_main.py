@@ -1,4 +1,4 @@
 from main import message
 
 def test_message():
-    assert message() == 'hello world'
+    assert message() == 'privet mir'
