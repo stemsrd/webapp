@@ -5,7 +5,7 @@ app = FastAPI()
 
 @app.get("/")
 def message():
-    return "privet, mir"
+    return "hello world"
 
 
 if __name__ == '__main__':
